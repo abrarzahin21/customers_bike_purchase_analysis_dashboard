@@ -1,4 +1,4 @@
-# customers_bike_selling_analysis_dashboard
+# customers_bike_purchase_analysis_dashboard
 
 
 The project begins by importing the raw data of 1000 individuals who have bought bikes. The data includes information such as a person's gender, Marital Status, Own Home, Occupation, salary, and geographical location.
